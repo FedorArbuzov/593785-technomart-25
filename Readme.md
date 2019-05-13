@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Федор Арбузов](https://up.htmlacademy.ru/htmlcss/25/user/593785).
-* Наставник: Елена Забара.
+* Наставник: [Елена Забара](https://htmlacademy.ru/profile/lena___elena).
 
 ---
 
